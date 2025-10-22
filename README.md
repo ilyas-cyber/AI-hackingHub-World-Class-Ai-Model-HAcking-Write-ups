@@ -2,6 +2,11 @@
 This repository is for ONLY hacking Write ups of AI Model Hacking please feel free to contribute  
 https://www.legitsecurity.com/blog/remote-prompt-injection-in-gitlab-duo
 
+Paper,Link,Summary
+"Universal and Transferable Adversarial Attacks on Aligned Language Models (Gao et al., 2023)",arXiv Link,"This introduced ""Suffix Attacks"" (e.g., AdvBench), showing that a single, unintelligible adversarial suffix (a string of characters) can jailbreak multiple LLMs (GPT, LLaMA, etc.) simultaneously, regardless of the underlying safety training (RLHF). It proved that alignment defenses have a common, exploitable blind spot."
+"Exploiting LLMs to Automate Penetration Testing (Llamas-Bañales et al., 2024)",arXiv Link,"Demonstrated that a highly capable LLM like GPT-4, when given access to tools (like a browser and code interpreter), can autonomously identify and exploit vulnerabilities in a target website (e.g., SQL Injection, XSS) with minimal human guidance, showcasing the true agentic threat."
+"Prompt Injection Attack against LLM-integrated Applications (Greshake et al., 2023)",Paper Link (PDF),"This seminal paper formally defined Direct and Indirect Prompt Injection. Direct Injection is the user inputting a harmful command. Indirect Injection involves injecting the command into untrusted data (like a malicious email, document, or webpage) that a RAG or agent system later processes, forcing the LLM to act against the application's intent."
+
 Gork Given these write ups : 
 ### Popular AI Model Hacking Blog Posts Shared on X
 
