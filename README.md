@@ -2,7 +2,12 @@
 This repository is for ONLY hacking Write ups of AI Model Hacking please feel free to contribute  
 https://www.legitsecurity.com/blog/remote-prompt-injection-in-gitlab-duo
 
+resource on Prompt Injection.
 
+Huge thanks 
+@rez0__
+
+https://github.com/jthack/PIPE
 
 Certainly. Here is the previously generated data on LLM security research papers, formatted for easy saving in Markdown.
 
